@@ -64,3 +64,10 @@ Add to your file `myfuncs.py` a function `area()` that
 - has an optional keyword argument *scale* that defaults to 1
 - has an optional keyword argument *offset* that defaults to 0
 - computes the (scaled) area of a rectangle A = scale * (x * y + offset)
+
+(**Note**: This is a *BONUS* problem. This means that the points for
+this problem are not required to get full marks. If you do not solve
+this problem then your workflow badge will show a failure with 18/20
+points. However, the maximum number of points as set in Canvas are set
+to 18, so you will still score full points. You cannot score more than
+18 points in Canvas.)

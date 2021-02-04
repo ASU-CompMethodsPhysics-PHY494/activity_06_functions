@@ -55,4 +55,12 @@ import matplotlib.pyplot as plt
 plt.plot(x_values, y_values, '-o', color="red", linewidth=2)
 plt.show()
 ```
+(This is not tested.)
 
+## BONUS: Function arguments
+
+Add to your file `myfuncs.py` a function `area()` that
+- takes two numbers as required arguments
+- has an optional keyword argument *scale* that defaults to 1
+- has an optional keyword argument *offset* that defaults to 0
+- computes the (scaled) area of a rectangle A = scale * (x * y + offset)
